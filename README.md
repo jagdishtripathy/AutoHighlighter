@@ -51,6 +51,12 @@ burp-auto-highlighter/
 ├── README.md           # Documentation
 └── LICENSE             # Open-source license
 ```
+---
+
+## 🖼️ Screenshots
+ 
+Example:  
+![screenshot](docs/screenshot.png)
 
 ---
 
