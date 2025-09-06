@@ -43,7 +43,7 @@ This reduces manual searching effort and helps you quickly spot potential vulner
 
 ## 📂 Project Structure
 ```
-burp-auto-highlighter/
+AutoHighlighter/
 ├── src/                # Source code
 │   └── main/java/...   # Java classes (Burp Extender implementation)
 ├── pom.xml             # Maven build configuration
