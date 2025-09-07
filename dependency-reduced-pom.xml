@@ -4,7 +4,7 @@
   <groupId>org.example</groupId>
   <artifactId>AutoHighlighter</artifactId>
   <name>Auto Highlighter</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <description>A Burp Suite extension to highlight sensitive keywords in HTTP responses</description>
   <build>
     <plugins>
