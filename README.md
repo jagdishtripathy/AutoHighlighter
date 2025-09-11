@@ -73,7 +73,7 @@ mvn clean package
 The compiled JAR will be available in:
 
 ```
-target/AutoHighlighter-1.0.jar
+target/AutoHighlighter-1.1.jar
 ```
 
 ---
